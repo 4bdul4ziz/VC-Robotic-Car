@@ -23,7 +23,7 @@ We have made our circuit diagram of our model through Fritzing Software. Fritzin
 
 The following are the pictures taken while the robot is in action. The robot has two sections for voice recognition and synthesis. The upper part as you can see consists of a small microphone and Arduino Duo. The lower deck consists of Arduino Uno, motor drivers, and dc motors.
 
-<img src="https://raw.githubusercontent.com/4bdul4ziz/VC-Robotic-Car/main/images/frontal_view.jpg" width="400" height="200">
+<img src="https://raw.githubusercontent.com/4bdul4ziz/VC-Robotic-Car/main/images/frontal-view.jpg" width="400" height="200">
 <img src="https://raw.githubusercontent.com/4bdul4ziz/VC-Robotic-Car/main/images/bottom-view.jpg" width="400" height="200">
-<img src="https://raw.githubusercontent.com/4bdul4ziz/VC-Robotic-Car/main/images/rear_view.jpg" width="400" height="200">
-<img src="https://raw.githubusercontent.com/4bdul4ziz/VC-Robotic-Car/main/images/side_view.jpg" width="400" height="200">
+<img src="https://raw.githubusercontent.com/4bdul4ziz/VC-Robotic-Car/main/images/rear-view.jpg" width="400" height="200">
+<img src="https://raw.githubusercontent.com/4bdul4ziz/VC-Robotic-Car/main/images/side-view.jpg" width="400" height="200">
