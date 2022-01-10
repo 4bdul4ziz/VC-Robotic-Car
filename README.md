@@ -11,7 +11,7 @@ The coordination of the control unit with Bluetooth gadget is accomplished utili
 
 We picked this as our project as robotics has become a major part of our everyday lifestyle and also has a wide scope in the engineering field. Robotics play a vital role in the development of new technology.
 
-- ## Design & Diagram
+- ## ⚜️ Design & Diagram
 
 We have made our circuit diagram of our model through Fritzing Software. Fritzing is an open-source initiative to develop and simulate the design for the electronics hardware.
 
@@ -19,7 +19,7 @@ We have made our circuit diagram of our model through Fritzing Software. Fritzin
 <img src="images/2.png" width="400" height="200">
 <img src="images/3.png" width="400" height="200">
 
-- ## Workings & Understandings
+- ## 📸 Photographs
 
 The following are the pictures taken while the robot is in action. The robot has two sections for voice recognition and synthesis. The upper part as you can see consists of a small microphone and Arduino Duo. The lower deck consists of Arduino Uno, motor drivers, and dc motors.
 
