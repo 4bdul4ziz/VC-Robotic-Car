@@ -15,9 +15,9 @@ We picked this as our project as robotics has become a major part of our everyda
 
 We have made our circuit diagram of our model through Fritzing Software. Fritzing is an open-source initiative to develop and simulate the design for the electronics hardware.
 
-<img src="images/1.png" width="400" height="400">
-<img src="images/2.png" width="400" height="400">
-<img src="images/3.png" width="400" height="400">
+<img src="images/1.png" width="400" height="300">
+<img src="images/2.png" width="400" height="300">
+<img src="images/3.png" width="400" height="300">
 
 - ## 📸 Photographs
 
